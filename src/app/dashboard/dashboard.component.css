@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.pie-line{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 0px;
+}
